@@ -1,3 +1,5 @@
+import React from 'react';
+
 class Square extends React.Component {
   render() {
     return (
@@ -7,3 +9,5 @@ class Square extends React.Component {
     );
   }
 }
+
+export default Square;
